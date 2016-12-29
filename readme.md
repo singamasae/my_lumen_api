@@ -1,5 +1,5 @@
 # my_lumen_api
-simple Lumen/Laravel project that implements separation of concerns &amp; service oriented architecture
+simple Lumen/Laravel project that implements separation of concerns/DI
 
 ## db setting
 DB_CONNECTION=mysql
